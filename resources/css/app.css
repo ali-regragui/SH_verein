@@ -2,6 +2,12 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
+@import 'content-elements';
+@import 'card-element';
+@import 'form-elements';
+@import 'form-buttons';
+@import 'flash-messages';
+
 [x-cloak] {
     display: none !important;
 }
